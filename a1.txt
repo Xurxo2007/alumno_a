@@ -1,4 +1,8 @@
 modificacion alumno_b
 
 modificacion alumno A
+<<<<<<< HEAD
 modifica alejandro
+=======
+modifica xurxo
+>>>>>>> be20681b88ba2146494deeaa464ccdecfd2ebf42
